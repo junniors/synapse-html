@@ -1,0 +1,11 @@
+/**
+ * Global CSS
+ */
+ 
+:focus {
+  outline: none;
+}
+
+ img {
+ 	width: 100%;
+ }
