@@ -1,0 +1,114 @@
+body {
+	margin: 0px;
+	background-color: #D1E0CD;
+	background-image: url(../img/background-texture.png);
+	background-repeat: repeat;
+}
+
+#boxpergunta {
+	width: 620px;
+	height: 210px;
+	background-color: #FBB03B;
+	margin: auto;
+	border-radius: 0px 0px 10px 10px;
+}
+
+#botaoplay {
+	width: 83px;
+	height: 83px;
+	margin: auto;
+	padding-top: 10px;
+	position: relative;
+}
+
+#caixatexto {
+	width: auto;
+	height: auto;
+	max-width: 600px;
+	max-height: 100px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.fontepergunta {
+	font-family: Asap;
+	color: #FFF;
+	font-size: 30px;
+	text-height: 32px;
+	text-align: center;
+}
+
+#containeralter {
+	height: 145px;
+	overflow: auto;
+	text-align: center;
+	display: table;
+	margin: auto;
+	margin-top: 30px;
+}
+
+#boxalternativa {
+	width: 160px;
+	height: 145px;
+	margin: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #51B899;
+	border-radius: 5px;
+	float: left;
+}
+
+#boximagem1 {
+	width: 150px;
+	height: 135px;
+	margin: auto;
+	margin-top: 5px;
+}
+
+#botaoplay1 {
+	width: 30px;
+	height: 31px;
+	float: right;
+}
+
+#botaoplay2 {
+	width: 30px;
+	height: 31px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+#boxtxt1 {
+	width: auto;
+	height: auto;
+	margin: auto;
+	margin-top: 5px;
+}
+
+.fontepadrao {
+	font-family: Asap;
+	font-size: 20px;
+	text-height: 22px;
+	color: #000;
+}
+
+#boximagem2 {
+	width: 150px;
+	height: 100px;
+	margin: auto;
+	margin-top: 5px;
+}
+
+#botaoplay3 {
+	width: 70px;
+	height: 71px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+#boxgifsom {
+	width: 100px;
+	height: 30px;
+	margin: auto;
+	margin-top: 5px;
+}
